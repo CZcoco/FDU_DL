@@ -2,7 +2,7 @@
 
 **课程**：Neural Network and Deep Learning  
 **姓名**：陈展  
-**学号**：[请填写你的学号]  
+**学号**：22300680044
 **代码**：https://github.com/CZcoco/FDU_DL.git  
 **模型权重**：https://modelscope.cn/models/growup/FDU-DL-PJ1-MNIST-Models/files
 
