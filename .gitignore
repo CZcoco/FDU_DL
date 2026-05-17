@@ -1,0 +1,30 @@
+# Dataset
+codes/dataset/
+
+# Model weights
+codes/best_models/
+codes/best_models_cnn/
+codes/best_models_exp1/
+codes/best_models_exp2/
+codes/best_models_exp3/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+codes/mynn/__pycache__/
+codes/draw_tools/__pycache__/
+
+# Pickle files
+*.pickle
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
